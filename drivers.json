@@ -6,7 +6,7 @@
         "age": 39,
         "active": true,
         "birthdate": "1985-01-07",
-        "image_url": "./assets/LewisHamilton.png",
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/LewisHamilton.png?raw=true",
         "team": "Mercedes",
         "hobbies": [
             "muziek",
