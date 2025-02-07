@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "Lewis Hamilton",
+        "description": "Lewis Hamilton is een Britse Formule 1-coureur die zeven wereldtitels heeft behaald.",
+        "age": 39,
+        "active": true,
+        "birthdate": "1985-01-07",
+        "image_url": "https://example.com/images/lewis_hamilton.jpg",
+        "team": "Mercedes",
+        "hobbies": [
+            "muziek",
+            "mode",
+            "filantropie"
+        ],
+        "car_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Max Verstappen",
+        "description": "Max Verstappen is een Nederlandse Formule 1-coureur, regerend wereldkampioen en lid van Red Bull Racing.",
+        "age": 26,
+        "active": true,
+        "birthdate": "1997-09-30",
+        "image_url": "https://example.com/images/max_verstappen.jpg",
+        "team": "Red Bull Racing",
+        "hobbies": [
+            "simracen",
+            "videospellen",
+            "reizen"
+        ],
+        "car_id": 2
+    },
+    {
+        "id": 3,
+        "name": "Charles Leclerc",
+        "description": "Charles Leclerc is een Formule 1-coureur uit Monaco, die rijdt voor Ferrari.",
+        "age": 26,
+        "active": true,
+        "birthdate": "1997-10-16",
+        "image_url": "https://example.com/images/charles_leclerc.jpg",
+        "team": "Ferrari",
+        "hobbies": [
+            "koken",
+            "simracen"
+        ],
+        "car_id": 3
+    },
+    {
+        "id": 4,
+        "name": "Sebastian Vettel",
+        "description": "Sebastian Vettel is een voormalige Duitse Formule 1-coureur, viervoudig wereldkampioen.",
+        "age": 36,
+        "active": false,
+        "birthdate": "1987-07-03",
+        "image_url": "https://example.com/images/sebastian_vettel.jpg",
+        "team": "Aston Martin",
+        "hobbies": [
+            "milieuactivisme",
+            "fietsen"
+        ],
+        "car_id": 4
+    },
+    {
+        "id": 5,
+        "name": "Fernando Alonso",
+        "description": "Fernando Alonso is een Spaanse Formule 1-coureur, tweevoudig wereldkampioen.",
+        "age": 42,
+        "active": true,
+        "birthdate": "1981-07-29",
+        "image_url": "https://example.com/images/fernando_alonso.jpg",
+        "team": "Aston Martin",
+        "hobbies": [
+            "sporten",
+            "reizen",
+            "films"
+        ],
+        "car_id": 5
+    },
+    {
+        "id": 6,
+        "name": "Daniel Ricciardo",
+        "description": "Daniel Ricciardo is een Australische Formule 1-coureur, bekend om zijn charismatische persoonlijkheid en inhaalacties.",
+        "age": 34,
+        "active": true,
+        "birthdate": "1989-07-01",
+        "image_url": "https://example.com/images/daniel_ricciardo.jpg",
+        "team": "AlphaTauri",
+        "hobbies": [
+            "grappen maken",
+            "sporten"
+        ],
+        "car_id": 6
+    },
+    {
+        "id": 7,
+        "name": "Lando Norris",
+        "description": "Lando Norris is een Britse Formule 1-coureur die rijdt voor McLaren.",
+        "age": 24,
+        "active": true,
+        "birthdate": "1999-11-13",
+        "image_url": "https://example.com/images/lando_norris.jpg",
+        "team": "McLaren",
+        "hobbies": [
+            "gaming",
+            "voetbal"
+        ],
+        "car_id": 7
+    },
+    {
+        "id": 8,
+        "name": "Sergio Perez",
+        "description": "Sergio Perez is een Mexicaanse Formule 1-coureur die rijdt voor Red Bull Racing.",
+        "age": 34,
+        "active": true,
+        "birthdate": "1990-01-26",
+        "image_url": "https://example.com/images/sergio_perez.jpg",
+        "team": "Red Bull Racing",
+        "hobbies": [
+            "voetbal",
+            "reizen"
+        ],
+        "car_id": 8
+    },
+    {
+        "id": 9,
+        "name": "Kimi Räikkönen",
+        "description": "Kimi Räikkönen is een voormalige Finse Formule 1-coureur, wereldkampioen van 2007.",
+        "age": 44,
+        "active": false,
+        "birthdate": "1979-10-17",
+        "image_url": "https://example.com/images/kimi_raikkonen.jpg",
+        "team": "Alfa Romeo",
+        "hobbies": [
+            "jagen",
+            "skiën"
+        ],
+        "car_id": 9
+    },
+    {
+        "id": 10,
+        "name": "Valtteri Bottas",
+        "description": "Valtteri Bottas is een Finse Formule 1-coureur, die voor Alfa Romeo reed voordat hij overstapte naar de DTM.",
+        "age": 35,
+        "active": false,
+        "birthdate": "1989-08-28",
+        "image_url": "https://example.com/images/valtteri_bottas.jpg",
+        "team": "Alfa Romeo",
+        "hobbies": [
+            "fitness",
+            "skiën"
+        ],
+        "car_id": 10
+    }
+]
