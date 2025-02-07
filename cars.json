@@ -4,70 +4,70 @@
         "team": "Scuderia Ferrari",
         "home": "Italie",
         "championships_won": 16,
-        "image_url": "https://example.com/mercedes_w14.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/Ferrari.jpg?raw=true"
     },
     {
       "id": 102,
         "team": "Red Bull Racing",
         "home": "Oostenrijk",
         "championships_won": 6,
-        "image_url": "https://example.com/red_bull_rb19.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/RedBullRacing.jpg?raw=true"
     },
     {
       "id": 103,
         "team": "Scuderia Ferrari",
         "home": "Italie",
         "championships_won": 16,
-        "image_url": "https://example.com/ferrari_sf23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/Ferrari.jpg?raw=true"
     },
     {
       "id": 104,
         "team": "Aston Martin",
         "home": "Verenigd Koninkrijk",
         "championships_won": 0,
-        "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/AstonMartin.jpg?raw=true"
     },
     {
       "id": 105,
         "team": "Red Bull Racing",
         "home": "Oostenrijk",
         "championships_won": 6,
-        "image_url": "https://example.com/red_bull_rb19.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/RedBullRacing.jpg?raw=true"
     },
     {
       "id": 106,
         "team": "Aston Martin",
         "home": "Verenigd Koninkrijk",
         "championships_won": 0,
-        "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/AstonMartin.jpg?raw=true"
     },
     {
       "id": 107,
         "team": "McLaren",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/mclaren_mcl60.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/McLaren.jpg?raw=true"
     },
     {
       "id": 108,
         "team": "Williams Racing",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/alpine_a523.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/WilliamsRacing.jpg?raw=true"
     },
     {
       "id": 109,
         "team": "McLaren",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/mclaren_mcl60.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/McLaren.jpg?raw=true"
     },
     {
       "id": 110,
         "team": "Mercedes",
         "home": "Verenigd Koninkrijk",
         "championships_won": 8,
-        "image_url": "https://example.com/alfa_romeo_c41.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/MercedesAMG.jpg?raw=true"
     }
   ]
   

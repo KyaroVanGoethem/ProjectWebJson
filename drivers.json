@@ -6,7 +6,7 @@
       "age": 39,
       "active": true,
       "birthdate": "1985-01-07",
-      "image_url": "https://example.com/lewis_hamilton.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/LewisHamilton.jpg?raw=true",
       "category": "Champion",
       "hobbies": ["Muziek", "Mode", "Kunst"],
       "car": {
@@ -14,7 +14,7 @@
         "team": "Scuderia Ferrari",
         "home": "Italie",
         "championships_won": 16,
-        "image_url": "https://example.com/mercedes_w14.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/Ferrari.jpg?raw=true"
       }
     },
     {
@@ -24,7 +24,7 @@
       "age": 26,
       "active": true,
       "birthdate": "1997-09-30",
-      "image_url": "https://example.com/max_verstappen.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/MaxVerstappen..jpg?raw=true",
       "category": "Champion",
       "hobbies": ["Sim racing", "Voetbal", "Muziek"],
       "car": {
@@ -32,7 +32,7 @@
         "team": "Red Bull Racing",
         "home": "Oostenrijk",
         "championships_won": 6,
-        "image_url": "https://example.com/red_bull_rb19.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/RedBullRacing.jpg?raw=true"
       }
     },
     {
@@ -42,7 +42,7 @@
       "age": 26,
       "active": true,
       "birthdate": "1997-10-16",
-      "image_url": "https://example.com/charles_leclerc.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/CharlesLeclerc.jpg?raw=true",
       "category": "Contender",
       "hobbies": ["Sim racing", "Fietsen", "Video games"],
       "car": {
@@ -50,7 +50,7 @@
         "team": "Scuderia Ferrari",
         "home": "Italie",
         "championships_won": 16,
-        "image_url": "https://example.com/ferrari_sf23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/Ferrari.jpg?raw=true"
       }
     },
     {
@@ -60,7 +60,7 @@
       "age": 36,
       "active": false,
       "birthdate": "1987-07-03",
-      "image_url": "https://example.com/sebastian_vettel.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/SebastianVettel.jpg?raw=true",
       "category": "Champion",
       "hobbies": ["Milieuactivist", "Fietsen"],
       "car": {
@@ -68,7 +68,7 @@
         "team": "Aston Martin",
         "home": "Verenigd Koninkrijk",
         "championships_won": 0,
-        "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/AstonMartin.jpg?raw=true"
       }
     },
     {
@@ -78,7 +78,7 @@
       "age": 21,
       "active": true,
       "birthdate": "2002-02-11",
-      "image_url": "https://example.com/liam_lawson.jpg",
+      "image_url": "hhttps://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/LiamLawson.jpg?raw=true",
      "category": "Rookie",
       "hobbies": ["Motorrijden", "Sim racing", "Fitness"],
       "car": {
@@ -86,7 +86,7 @@
         "team": "Red Bull Racing",
         "home": "Oostenrijk",
         "championships_won": 6,
-        "image_url": "https://example.com/red_bull_rb19.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/RedBullRacing.jpg?raw=true"
       }
     },
     {
@@ -96,7 +96,7 @@
       "age": 42,
       "active": true,
       "birthdate": "1981-07-29",
-      "image_url": "https://example.com/fernando_alonso.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/FernandoAlonso.jpg?raw=true",
       "category": "Champion",
       "hobbies": ["Fietsen", "Motorsport"],
       "car": {
@@ -104,7 +104,7 @@
         "team": "Aston Martin",
         "home": "Verenigd Koninkrijk",
         "championships_won": 0,
-        "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/AstonMartin.jpg?raw=true"
       }
     },
     {
@@ -114,15 +114,15 @@
       "age": 24,
       "active": true,
       "birthdate": "1999-11-13",
-      "image_url": "https://example.com/lando_norris.jpg",
-      "category": "Rising Star",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/LandoNorris.jpg?raw=true",
+      "category": "Contender",
       "hobbies": ["DJ", "Voetbal", "Sim racing"],
       "car": {
         "id": 107,
         "team": "McLaren",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/mclaren_mcl60.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/McLaren.jpg?raw=true"
       }
     },
     {
@@ -132,7 +132,7 @@
       "age": 29,
       "active": true,
       "birthdate": "1994-09-01",
-      "image_url": "https://example.com/pierre_gasly.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/CarlosSainz.jpg?raw=true",
       "category": "Contender",
       "hobbies": ["Tennis", "Sim racing", "Fietsen"],
       "car": {
@@ -140,7 +140,7 @@
         "team": "Williams Racing",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/alpine_a523.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/WilliamsRacing.jpg?raw=true"
       }
     },
     {
@@ -150,7 +150,7 @@
       "age": 22,
       "active": true,
       "birthdate": "2001-04-06",
-      "image_url": "https://example.com/sergio_perez.jpg",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/OscarPiastri.jpg?raw=true",
       "category": "Rookie",
       "hobbies": ["Surfen", "Sim racing", "Fietsen"],
       "car": {
@@ -158,7 +158,7 @@
         "team": "McLaren",
         "home": "Verenigd Koninkrijk",
         "championships_won": 9,
-        "image_url": "https://example.com/mclaren_mcl60.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/McLaren.jpg?raw=true"
       }
     },
     {
@@ -168,15 +168,15 @@
       "age": 25,
       "active": true,
       "birthdate": "1998-02-15",
-      "image_url": "https://example.com/kimi_raikkonen.jpg",
-      "category": "Rising Star",
+      "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/GeorgeRussel.jpg?raw=true",
+      "category": "Contender",
       "hobbies": ["Golf", "Sim racing", "Fitness"],
       "car": {
         "id": 110,
         "team": "Mercedes",
         "home": "Verenigd Koninkrijk",
         "championships_won": 8,
-        "image_url": "https://example.com/alfa_romeo_c41.jpg"
+        "image_url": "https://github.com/KyaroVanGoethem/ProjectWebJson/blob/main/assets/MercedesAMG.jpg?raw=true"
       }
     }
   ]
