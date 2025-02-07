@@ -6,7 +6,7 @@
         "age": 39,
         "active": true,
         "birthdate": "1985-01-07",
-        "image_url": "https://example.com/images/lewis_hamilton.jpg",
+        "image_url": "./assets/LewisHamilton.png",
         "team": "Mercedes",
         "hobbies": [
             "muziek",
