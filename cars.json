@@ -1,72 +1,73 @@
 [
     {
-        "id": 1,
-        "make": "Mercedes",
-        "model": "W14",
-        "year": 2024,
-        "image_url": "https://example.com/images/mercedes_w14.jpg"
+      "id": 101,
+      "make": "Mercedes",
+      "model": "W14",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/mercedes_w14.jpg"
     },
     {
-        "id": 2,
-        "make": "Red Bull Racing",
-        "model": "RB20",
-        "year": 2024,
-        "image_url": "https://example.com/images/redbull_rb20.jpg"
+      "id": 102,
+      "make": "Red Bull Racing",
+      "model": "RB19",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/red_bull_rb19.jpg"
     },
     {
-        "id": 3,
-        "make": "Ferrari",
-        "model": "SF-23",
-        "year": 2024,
-        "image_url": "https://example.com/images/ferrari_sf23.jpg"
+      "id": 103,
+      "make": "Ferrari",
+      "model": "SF23",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/ferrari_sf23.jpg"
     },
     {
-        "id": 4,
-        "make": "Aston Martin",
-        "model": "AMR23",
-        "year": 2023,
-        "image_url": "https://example.com/images/astonmartin_amr23.jpg"
+      "id": 104,
+      "make": "Aston Martin",
+      "model": "AMR23",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/aston_martin_amr23.jpg"
     },
     {
-        "id": 5,
-        "make": "Aston Martin",
-        "model": "AMR23",
-        "year": 2024,
-        "image_url": "https://example.com/images/astonmartin_amr23.jpg"
+      "id": 105,
+      "make": "AlphaTauri",
+      "model": "AT04",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/alphatauri_at04.jpg"
     },
     {
-        "id": 6,
-        "make": "AlphaTauri",
-        "model": "AT04",
-        "year": 2024,
-        "image_url": "https://example.com/images/alphatauri_at04.jpg"
+      "id": 106,
+      "make": "Aston Martin",
+      "model": "AMR23",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/aston_martin_amr23.jpg"
     },
     {
-        "id": 7,
-        "make": "McLaren",
-        "model": "MCL38",
-        "year": 2024,
-        "image_url": "https://example.com/images/mclaren_mcl38.jpg"
+      "id": 107,
+      "make": "McLaren",
+      "model": "MCL60",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/mclaren_mcl60.jpg"
     },
     {
-        "id": 8,
-        "make": "Red Bull Racing",
-        "model": "RB20",
-        "year": 2024,
-        "image_url": "https://example.com/images/redbull_rb20.jpg"
+      "id": 108,
+      "make": "Alpine",
+      "model": "A523",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/alpine_a523.jpg"
     },
     {
-        "id": 9,
-        "make": "Alfa Romeo",
-        "model": "C41",
-        "year": 2021,
-        "image_url": "https://example.com/images/alfaromeo_c41.jpg"
+      "id": 109,
+      "make": "Red Bull Racing",
+      "model": "RB19",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/red_bull_rb19.jpg"
     },
     {
-        "id": 10,
-        "make": "Alfa Romeo",
-        "model": "C41",
-        "year": 2021,
-        "image_url": "https://example.com/images/alfaromeo_c41.jpg"
+      "id": 110,
+      "make": "Alfa Romeo",
+      "model": "C41",
+      "engine_capacity": 1.6,
+      "image_url": "https://example.com/alfa_romeo_c41.jpg"
     }
-]
+  ]
+  
