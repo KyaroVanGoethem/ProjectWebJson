@@ -1,73 +1,73 @@
 [
     {
       "id": 101,
-      "make": "Mercedes",
-      "model": "W14",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/mercedes_w14.jpg"
+        "team": "Scuderia Ferrari",
+        "home": "Italie",
+        "championships_won": 16,
+        "image_url": "https://example.com/mercedes_w14.jpg"
     },
     {
       "id": 102,
-      "make": "Red Bull Racing",
-      "model": "RB19",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/red_bull_rb19.jpg"
+        "team": "Red Bull Racing",
+        "home": "Oostenrijk",
+        "championships_won": 6,
+        "image_url": "https://example.com/red_bull_rb19.jpg"
     },
     {
       "id": 103,
-      "make": "Ferrari",
-      "model": "SF23",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/ferrari_sf23.jpg"
+        "team": "Scuderia Ferrari",
+        "home": "Italie",
+        "championships_won": 16,
+        "image_url": "https://example.com/ferrari_sf23.jpg"
     },
     {
       "id": 104,
-      "make": "Aston Martin",
-      "model": "AMR23",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "team": "Aston Martin",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 0,
+        "image_url": "https://example.com/aston_martin_amr23.jpg"
     },
     {
       "id": 105,
-      "make": "AlphaTauri",
-      "model": "AT04",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/alphatauri_at04.jpg"
+        "team": "Red Bull Racing",
+        "home": "Oostenrijk",
+        "championships_won": 6,
+        "image_url": "https://example.com/red_bull_rb19.jpg"
     },
     {
       "id": 106,
-      "make": "Aston Martin",
-      "model": "AMR23",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/aston_martin_amr23.jpg"
+        "team": "Aston Martin",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 0,
+        "image_url": "https://example.com/aston_martin_amr23.jpg"
     },
     {
       "id": 107,
-      "make": "McLaren",
-      "model": "MCL60",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/mclaren_mcl60.jpg"
+        "team": "McLaren",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 9,
+        "image_url": "https://example.com/mclaren_mcl60.jpg"
     },
     {
       "id": 108,
-      "make": "Alpine",
-      "model": "A523",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/alpine_a523.jpg"
+        "team": "Williams Racing",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 9,
+        "image_url": "https://example.com/alpine_a523.jpg"
     },
     {
       "id": 109,
-      "make": "Red Bull Racing",
-      "model": "RB19",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/red_bull_rb19.jpg"
+        "team": "McLaren",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 9,
+        "image_url": "https://example.com/mclaren_mcl60.jpg"
     },
     {
       "id": 110,
-      "make": "Alfa Romeo",
-      "model": "C41",
-      "engine_capacity": 1.6,
-      "image_url": "https://example.com/alfa_romeo_c41.jpg"
+        "team": "Mercedes",
+        "home": "Verenigd Koninkrijk",
+        "championships_won": 8,
+        "image_url": "https://example.com/alfa_romeo_c41.jpg"
     }
   ]
   
